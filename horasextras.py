@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Exercicio das horas extras trabalhadas
 hrs_trabalhadas = int(input("Insira as horas trabalhadas: "))
 salario_hr = input("Digite o salário p/hora: R$ ")
 
